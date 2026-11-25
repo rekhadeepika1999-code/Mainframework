@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-24T12:30:39 IST" name="Suite" finished-at="2026-11-24T12:32:50 IST" duration-ms="131770">
+    <groups>
+    </groups>
+    <test started-at="2026-11-24T12:30:39 IST" name="Test1" finished-at="2026-11-24T12:32:37 IST" duration-ms="118481">
+      <class name="com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest@7ec7ffd3]" started-at="2026-11-24T12:32:18 IST" name="launchBrowser" finished-at="2026-11-24T12:32:22 IST" duration-ms="4669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest@7ec7ffd3]" started-at="2026-11-24T12:32:22 IST" name="login" finished-at="2026-11-24T12:32:29 IST" duration-ms="6621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyContactWithSupportDates()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest@7ec7ffd3]" started-at="2026-11-24T12:32:29 IST" name="verifyContactWithSupportDates" finished-at="2026-11-24T12:32:35 IST" duration-ms="6440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactWithSupportDates -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest@7ec7ffd3]" started-at="2026-11-24T12:32:35 IST" name="logout" finished-at="2026-11-24T12:32:36 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest@7ec7ffd3]" started-at="2026-11-24T12:32:36 IST" name="closeBrowser" finished-at="2026-11-24T12:32:37 IST" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comcast.crm.CreateContactTest.CreateContactWithSupportDatesTest -->
+      <class name="com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest@9f116cc]" started-at="2026-11-24T12:30:39 IST" name="launchBrowser" finished-at="2026-11-24T12:31:12 IST" duration-ms="33713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest@9f116cc]" started-at="2026-11-24T12:31:12 IST" name="login" finished-at="2026-11-24T12:32:00 IST" duration-ms="47628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyContactWithLastName()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest@9f116cc]" started-at="2026-11-24T12:32:00 IST" name="verifyContactWithLastName" finished-at="2026-11-24T12:32:16 IST" duration-ms="15802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactWithLastName -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest@9f116cc]" started-at="2026-11-24T12:32:16 IST" name="logout" finished-at="2026-11-24T12:32:17 IST" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest@9f116cc]" started-at="2026-11-24T12:32:17 IST" name="closeBrowser" finished-at="2026-11-24T12:32:18 IST" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comcast.crm.CreateContactTest.CreateContactWithLastNameTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2026-11-24T12:30:39 IST" name="Test2" finished-at="2026-11-24T12:32:50 IST" duration-ms="131770">
+      <class name="com.comcast.crm.CreateOrgTest.CreateOrganizationTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationTest@4562e04d]" started-at="2026-11-24T12:30:39 IST" name="launchBrowser" finished-at="2026-11-24T12:31:12 IST" duration-ms="33825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationTest@4562e04d]" started-at="2026-11-24T12:31:12 IST" name="login" finished-at="2026-11-24T12:31:59 IST" duration-ms="46588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyCreateOrganization()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationTest@4562e04d]" started-at="2026-11-24T12:31:59 IST" name="verifyCreateOrganization" finished-at="2026-11-24T12:32:15 IST" duration-ms="16226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateOrganization -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationTest@4562e04d]" started-at="2026-11-24T12:32:15 IST" name="logout" finished-at="2026-11-24T12:32:16 IST" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationTest@4562e04d]" started-at="2026-11-24T12:32:16 IST" name="closeBrowser" finished-at="2026-11-24T12:32:17 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comcast.crm.CreateOrgTest.CreateOrganizationTest -->
+      <class name="com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest@2a65fe7c]" started-at="2026-11-24T12:32:17 IST" name="launchBrowser" finished-at="2026-11-24T12:32:22 IST" duration-ms="4446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest@2a65fe7c]" started-at="2026-11-24T12:32:22 IST" name="login" finished-at="2026-11-24T12:32:28 IST" duration-ms="6664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyOrganizationWithIndustryAndType()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest@2a65fe7c]" started-at="2026-11-24T12:32:28 IST" name="verifyOrganizationWithIndustryAndType" finished-at="2026-11-24T12:32:35 IST" duration-ms="7166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrganizationWithIndustryAndType -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest@2a65fe7c]" started-at="2026-11-24T12:32:35 IST" name="logout" finished-at="2026-11-24T12:32:36 IST" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest@2a65fe7c]" started-at="2026-11-24T12:32:36 IST" name="closeBrowser" finished-at="2026-11-24T12:32:37 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comcast.crm.CreateOrgTest.CreateOrganizationWithIndustryAndTypeTest -->
+      <class name="com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest@4135c3b]" started-at="2026-11-24T12:32:37 IST" name="launchBrowser" finished-at="2026-11-24T12:32:40 IST" duration-ms="3231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest@4135c3b]" started-at="2026-11-24T12:32:40 IST" name="login" finished-at="2026-11-24T12:32:41 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyOrganizationWithPhoneNumber()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest@4135c3b]" started-at="2026-11-24T12:32:41 IST" name="verifyOrganizationWithPhoneNumber" finished-at="2026-11-24T12:32:49 IST" duration-ms="8366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrganizationWithPhoneNumber -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest@4135c3b]" started-at="2026-11-24T12:32:49 IST" name="logout" finished-at="2026-11-24T12:32:50 IST" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest@4135c3b]" started-at="2026-11-24T12:32:50 IST" name="closeBrowser" finished-at="2026-11-24T12:32:50 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.comcast.crm.CreateOrgTest.CreateOrganizationWithPhoneNumberTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
