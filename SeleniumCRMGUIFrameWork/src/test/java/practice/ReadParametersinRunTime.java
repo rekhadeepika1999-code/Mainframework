@@ -24,10 +24,10 @@ public class ReadParametersinRunTime {
         else {
             driver = new ChromeDriver();
         }
-		String url=System.getProperty("url");
-		driver.get(url);
+		driver.get(System.getProperty("url"));
 		
 		Thread.sleep(5000);
+		driver.quit();
 		
 	}
 
